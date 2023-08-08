@@ -1,5 +1,7 @@
 # Biscoito da Sorte
 
+![Biscoito da Sorte](system-1.png)
+
 Projetinho do nível 5 do curso Explorer da Rocketseat.
 
 Bem-vindo ao repositório **Biscoito da Sorte**! Este é um projeto simples que simula a experiência de abrir um biscoito da sorte virtualmente. Ao clicar no botão, você revelará uma mensagem aleatória de sorte.
